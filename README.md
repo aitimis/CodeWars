@@ -1,1 +1,1 @@
-# This repository is dedicated to all my CodeWars solutions :)
+# This repository contains all my CodeWars solutions.
